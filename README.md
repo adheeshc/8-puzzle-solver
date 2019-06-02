@@ -16,7 +16,7 @@ Generates a solution for a given pair of starting and goal configuration,if a so
 
 #### **RUN INSTRUCTIONS**
 
-To run the puzzle solver, you can either use the MATLAB functions or the MATLAB App.
+To run the puzzle solver, use Matlab
 
 
 #### **OUTPUT DESCRIPTION**
